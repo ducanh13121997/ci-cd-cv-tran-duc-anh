@@ -1,5 +1,3 @@
-import { ProductList } from "./components/ProductList";
-
 function App() {
   return (
     <div
@@ -12,7 +10,7 @@ function App() {
         justifyContent: "center",
       }}
     >
-      <ProductList />
+      Test CI/CD
     </div>
   );
 }
